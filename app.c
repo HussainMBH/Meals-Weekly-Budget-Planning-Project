@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define DAYS 2
+#define DAYS 5
 #define MEALS 2
 
 typedef struct {
