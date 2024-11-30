@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 #define DAYS 5
-#define MEALS 2
+#define MEALS 3
 
 typedef struct {
     char name[50];
