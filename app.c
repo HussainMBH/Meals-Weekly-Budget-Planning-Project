@@ -13,7 +13,6 @@ int main() {
         {"Pasta", 3.5},
         {"Sandwich", 2.0},
         {"Salad", 1.5},
-        {"Soup", 2.5},
         {"Rice and Curry", 4.0}
     };
     int mealCount = sizeof(meals) / sizeof(meals[0]);
